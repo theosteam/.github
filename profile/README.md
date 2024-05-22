@@ -10,7 +10,7 @@ We make software that includes:
 ## How to contrbute
 **Since all our software is open source, we needed a way to make our software better through the community**
 
-Here is how you can contribute:
+Here is how you can contribute in different ways:
 - Make sure the changes have been committed through the `dev` branch
 - Test the new software with your changes
 - Let others test the modified piece of software
