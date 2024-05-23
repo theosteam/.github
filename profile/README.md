@@ -1,5 +1,5 @@
 ## Hello there!
-**We are The OS Team**
+***We are The OS Team***
 
 We make software that includes:
 
@@ -7,7 +7,7 @@ We make software that includes:
 - Game engines (https://github.com/theosteam/godot)
 - And other software to go alongside our already existing software
 
-## How to contrbute
+## Ways to contrbute
 **Since all our software is open source, we needed a way to make our software better through the community**
 
 Here is how you can contribute in different ways:
