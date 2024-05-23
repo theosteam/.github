@@ -1,21 +1,22 @@
-## Hello there!
-***We are The OS Team***
+### Welcome!
+***Greetings from The OS Team!***
 
-We make software that includes:
+## We develop a variety of software, including:
 
-- Operating systems (https://theosteam.github.io/lambdaos)
-- Game engines (https://github.com/theosteam/godot)
-- And other software to go alongside our already existing software
+- [Operating systems](https://theosteam.github.io/lambdaos)
+- [Game engines](https://github.com/theosteam/godot)
+- Plus other complementary software to enhance our existing projects.
 
-## Ways to contrbute
-**Since all our software is open source, we needed a way to make our software better through the community**
+## Ways to Contribute
+**As all our software is open-source, community contributions are essential for improving it.**
 
-Here is how you can contribute in different ways:
-- Make sure the changes have been committed through the `dev` branch
-- Test the new software with your changes
-- Let others test the modified piece of software
-- Make an issue
-- Test the software pushed to the `main` or `master` branch
-- Make a pull request and wait for approval
+## Here are several ways you can contribute:
 
-See you then, developer!
+  - Ensure changes are committed through the `dev` branch.
+  - Test new software with your modifications.
+  - Allow others to test the modified software.
+  - Report issues encountered.
+  - Test software pushed to the `main` or `master` branch.
+  - Submit pull requests and await approval.
+
+Looking forward to collaborating with you, developer!
