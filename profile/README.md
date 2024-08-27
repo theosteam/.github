@@ -1,22 +1,31 @@
-### Welcome!
-***Greetings from The OS Team!***
+# The OS Team
 
-## We develop a variety of software, including:
+**Greetings from The OS Team!** We're excited to have you here.
 
-- [Operating systems](https://theosteam.github.io/lambdaos)
-- [Game engines](https://github.com/theosteam/godot)
-- Plus other complementary software to enhance our existing projects.
+## What We Do
 
-## Ways to Contribute
-**As all our software is open-source, community contributions are essential for improving it.**
+We develop a variety of software, including:
 
-## Here are several ways you can contribute:
+- [**Operating Systems**](https://theosteam.github.io/lambdaos)
+- [**Game Engines**](https://github.com/theosteam/godot) (Discontinued and moved [here](https://github.com/segadreamcast1/xenengine))
+- **Complementary Software** to enhance our existing projects.
 
-  - Ensure changes are committed through the `dev` branch.
-  - Test new software with your modifications.
-  - Allow others to test the modified software.
-  - Report issues encountered.
-  - Test software pushed to the `main` or `master` branch.
-  - Submit pull requests and await approval.
+**You can checkout our projects [here](https://theosteam.github.io/projects)**
 
-Looking forward to collaborating with you, developer!
+## How to Contribute
+
+As all our software is open-source, community contributions are vital to our success. Here are several ways you can get involved:
+
+- Commit changes through the `dev` branch.
+- Test new software with your modifications.
+- Allow others to test the modified software.
+- Report any issues you encounter.
+- Test software pushed to the `main` or `master` branch.
+- Submit pull requests and wait for approval.
+
+We look forward to collaborating with you, developer!
+
+---
+<sub>Last updated: Aug 8, 2024 @ 7:50 PM</sub>
+
+&copy; 2023 The OS Team
